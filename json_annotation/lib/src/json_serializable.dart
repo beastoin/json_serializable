@@ -134,7 +134,7 @@ class JsonKey {
   /// enclosing class.
   final bool nullable;
 
-  /// `true` if the generator should include the this field in the serialized
+  /// `true` if the generator should include this field in the serialized
   /// output, even if the value is `null`.
   ///
   /// The default value, `null`, indicates that the behavior should be
